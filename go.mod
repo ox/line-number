@@ -1,3 +1,3 @@
-module line-number
+module github.com/ox/line-number
 
-go 1.21.2
+go 1.21
